@@ -1,0 +1,4 @@
+com\test\stock\util\StockUtil.class
+com\test\stock\dto\StockDTO.class
+com\test\stock\StockAppApplication.class
+com\test\stock\controller\StockController.class
