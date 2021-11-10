@@ -4,7 +4,11 @@
 This API is used to get a particuler stock and get all the stocks.
 And to add/remove stocks. Below are the endpoints.
 
-to run the project goto target folder and run below command.
+to run the project goto root folder and run below commands.
+
+mvn clean install
+
+cd target
 
 java -jar stock-app-0.0.1-SNAPSHOT.jar
 
